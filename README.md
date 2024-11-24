@@ -9,7 +9,6 @@ A professional-grade Express application developed with TypeScript to manage a b
 - Installation
 - Usage
 - API Endpoints
-- Contributing
 
 ## Features
 
